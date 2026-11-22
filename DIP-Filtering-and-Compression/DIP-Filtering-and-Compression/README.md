@@ -1,6 +1,6 @@
 # Digital Image Processing (DIP) — Image Filtering & Image Compression
 
-**Student:** Shreyas Lingwal — B.Tech (Hons.) Computer Science, Doon University, Dehradun
+**Student:** KRISHNA BISHT — B.Tech (Hons.) Computer Science, Doon University, Dehradun
 **Subject:** Digital Image Processing (Semester 7)
 
 This repository contains two practical implementations:
